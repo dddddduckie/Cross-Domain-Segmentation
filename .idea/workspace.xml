@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d145da6-bec5-453e-a3fa-be3886ddf0b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a3da5262-e6ce-452e-9b62-3354ac9abdba" />
+  <component name="ProjectId" id="1ohRwUL8jHMIfR5qSayBsuABc1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d145da6-bec5-453e-a3fa-be3886ddf0b1" name="Default Changelist" comment="" />
+      <created>1613737073721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613737073721</updated>
+      <workItem from="1613737074785" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="461" key="Github.ShareDialog" timestamp="1613737257582">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="706" y="461" key="Github.ShareDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613737257582" />
+    <state x="627" y="267" key="Github.UntrackedFilesDialog" timestamp="1613737263480">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="627" y="267" key="Github.UntrackedFilesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613737263480" />
+  </component>
+</project>

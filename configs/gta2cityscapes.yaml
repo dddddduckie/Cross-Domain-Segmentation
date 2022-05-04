@@ -1,0 +1,36 @@
+#optimizer
+base_lr: 2.5e-4
+max_lr: 0.001  # maximum learning rate for cyclical adjustment
+step_size: 10000
+momentum: 0.9
+weight_decay: 0.0005
+optimizer: "SGD"
+
+clip_gradient: True
+max_norm: 20
+label_smoothing: False
+save_iter: 5000
+
+restore: False
+batch_size: 1
+source_input_size: [720,1280]
+target_input_size: [512,1024]
+max_iter: 150000
+num_classes: 19
+
+num_workers: 4
+use_tensorboard: False
+ignore_label: 255
+
+mean: [0.485, 0.456, 0.406]
+std: [0.229, 0.224, 0.225]
+
+#directory
+source_data_dir: "/media/sdb/duckie/dataset/GTAV"
+target_data_dir: "/media/sdb/duckie/dataset/Cityscapes"
+source_list_dir: "/media/sdb/duckie/Cross-Domain-Segmentation/dataset/gta5_list"
+target_list_dir: "/media/sdb/duckie/Cross-Domain-Segmentation/dataset/cityscapes_list"
+ckpt_dir: "/media/sdb/duckie/Cross-Domain-Segmentation/checkpoint/G2C/advent_multi"
+result_dir: "/media/sdb/duckie/Cross-Domain-Segmentation/visualization_result/G2C"
+log_dir: "/media/sdb/duckie/Cross-Domain-Segmentation/log/G2C"
+
